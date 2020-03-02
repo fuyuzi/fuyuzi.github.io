@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a dialogue between father and son.
+This is a dialogue between me and my dad.
 
 这是父与子的对话。
 
