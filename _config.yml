@@ -1,11 +1,11 @@
 title: 父与子
 author:
-  name: 郑爸爸和郑儿子
+  name: 郑国和和郑方达
   email: fangda.zheng@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
+description: >
   Father and son. 父与子的对话。
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: false
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
